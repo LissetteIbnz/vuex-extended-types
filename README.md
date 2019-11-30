@@ -20,14 +20,7 @@ $ yarn add vuex-extended-types
 
 ```ts
 import * as Vuex from "vuex";
-import {
-  DefineActionTree,
-  DefineMutationTree,
-  DefineGetterTree,
-  DefineTypes,
-  HelperTypes,
-  StoreTS
-} from "vuex-extended-types";
+import { DefineActionTree, DefineMutationTree, DefineGetterTree, DefineTypes, HelperTypes, StoreTS } from "vuex-extended-types";
 
 /**
  * Declare module types
