@@ -10,10 +10,10 @@ A more complex [sample](https://github.com/LissetteIbnz/jsdaycan2019-vuex-typesc
 
 ```bash
 # npm
-$ npm install vuex-extended-types
+$ npm install --save-dev vuex-extended-types
 
 # yarn
-$ yarn add vuex-extended-types
+$ yarn add --dev vuex-extended-types
 ```
 
 ## Example
