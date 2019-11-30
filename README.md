@@ -10,17 +10,17 @@ A more complex [sample](https://github.com/LissetteIbnz/jsdaycan2019-vuex-typesc
 
 ```bash
 # npm
-$ npm install vuex-extended-types
+$ npm install --save-dev @lissette.ibnz/vuex-extended-types
 
 # yarn
-$ yarn add vuex-extended-types
+$ yarn add --dev @lissette.ibnz/vuex-extended-types
 ```
 
 ## Example
 
 ```ts
 import * as Vuex from "vuex";
-import { DefineActionTree, DefineMutationTree, DefineGetterTree, DefineTypes, HelperTypes, StoreTS } from "vuex-extended-types";
+import { DefineActionTree, DefineMutationTree, DefineGetterTree, DefineTypes, HelperTypes, StoreTS } from "@lissette.ibnz/vuex-extended-types";
 
 /**
  * Declare module types
