@@ -1,0 +1,11 @@
+  {
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "strict": true,
+      "noEmit": true
+    },
+    "include": [
+      "index.d.ts",
+      "test/**/*.ts"
+    ]
+  }

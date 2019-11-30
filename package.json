@@ -1,14 +1,23 @@
 {
   "name": "vuex-extended-types",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Type helper based in Object-Style to ensure type safety in Vuex",
+  "types": "index.d.ts",
+  "files": [
+    "index.d.ts"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "types": "tsc -p ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "Vuex",
+    "Vue",
+    "Vue.js",
+    "TypeScript",
+    "Types"
+  ],
+  "author": "Sara Lissette Luis Ibáñez <lissette.ibnz@gmail.com>",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^3.7.2",
     "vue": "^2.6.10",
