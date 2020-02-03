@@ -2,6 +2,10 @@
 
 Type helper based in Object-Style to ensure type safety in Vuex.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/LissetteIbnz/vuex-extended-types)
+![GitHub](https://img.shields.io/github/license/LissetteIbnz/vuex-extended-types)
+![GitHub issues](https://img.shields.io/github/issues/LissetteIbnz/vuex-extended-types)
+
 Allow to use type safety in Vuex with the [Object-style commit](https://vuex.vuejs.org/guide/mutations.html#object-style-commit) and dispatch.
 
 A more complex [sample](https://github.com/LissetteIbnz/jsdaycan2019-vuex-typescript) implementing modules and [link](https://youtu.be/FmHcLbVYqec) to explained talk.
