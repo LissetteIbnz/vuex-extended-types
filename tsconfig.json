@@ -6,6 +6,7 @@
     },
     "include": [
       "index.d.ts",
+      "helpers.d.ts",
       "test/**/*.ts"
     ]
   }

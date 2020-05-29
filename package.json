@@ -1,13 +1,14 @@
 {
   "name": "@lissette.ibnz/vuex-extended-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publishConfig": {
     "access": "public"
   },
   "description": "Type helper based in Object-Style to ensure type safety in Vuex",
   "types": "index.d.ts",
   "files": [
-    "index.d.ts"
+    "index.d.ts",
+    "helpers.d.ts"
   ],
   "repository": {
     "type": "git",
